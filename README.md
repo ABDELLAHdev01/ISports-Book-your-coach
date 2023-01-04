@@ -1,7 +1,6 @@
 # ISports
 Système de réservation d’une séance de coaching sportif
 
-======================================================================================================================================================================
 #                                                       specifications
 User registration and login: The website should allow users to create an account and log in to their account.
 
@@ -18,4 +17,3 @@ Communication: The website should include a messaging system that allows users t
 Responsive design: The website should be fully responsive and work well on both desktop and mobile devices.
 
 Security: The website should have appropriate security measures in place to protect user data and payments.
-======================================================================================================================================================================
