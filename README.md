@@ -2,7 +2,7 @@
 
 ISports allows users to easily book for sports coaching sessions with qualified coaches. Search and filter options make it simple to find the right coach, and review system ensure a smooth and informative experience. The website is mobile-friendly and secure
 
-#                                                       specifications
+#                                                       What Our website offer !
 1 - User registration and login: The website should allow users to create an account and log in to their account.
 
 2 - Search and filter coaches: Users should be able to search for coaches based on location, sport, and availability. 
