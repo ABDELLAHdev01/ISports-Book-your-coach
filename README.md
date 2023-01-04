@@ -1,5 +1,6 @@
 # ISports
-Système de réservation d’une séance de coaching sportif
+
+ISports allows users to easily book for sports coaching sessions with qualified coaches. Search and filter options make it simple to find the right coach, and review system ensure a smooth and informative experience. The website is mobile-friendly and secure
 
 #                                                       specifications
 1 - User registration and login: The website should allow users to create an account and log in to their account.
