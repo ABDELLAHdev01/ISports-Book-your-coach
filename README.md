@@ -13,8 +13,10 @@ ISports allows users to easily book for sports coaching sessions with qualified 
 
 5 - Online classes: The website should allow users to sign up for and participate in online classes with coaches.
 
-6 - Responsive design: The website should be fully responsive and work well on both desktop and mobile devices.
+6 - Assessment quiz: The website should include a quiz that asks users about their height, weight, and other relevant factors to determine the best training plan for their needs. 
 
-7 - Security: The website should have appropriate security measures in place to protect user data and payments.
+7 - Responsive design: The website should be fully responsive and work well on both desktop and mobile devices.
+
+8 - Security: The website should have appropriate security measures in place to protect user data and payments.
 
 
